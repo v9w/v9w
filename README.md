@@ -39,8 +39,8 @@ I am an aspiring code ninja 🥷 on a quest to master the art of software sorcer
 
 <p style="font-size: 24px;font-weight:bold">📊 Stats</p>
 
-<a href="http://www.github.com/v9w"><img src="https://github-readme-stats.vercel.app/api?username=v9w&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="v9w's GitHub stats" /></a>
-<a href="https://github.com/v9w" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v9w&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/v9w"><img src="https://github-readme-stats.vercel.app/api?username=v9w&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="v9w's GitHub stats" height="195px" /></a>
+<a href="https://github.com/v9w" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v9w&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="195px" /></a>
 
 ---
 
